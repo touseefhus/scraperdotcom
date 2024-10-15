@@ -1,0 +1,31 @@
+Name: Corporation Finance, Title: Erik Gerding, Contact Information: Director
+Name: Economic and Risk Analysis, Title: Jessica Wachter, Contact Information: Director
+Name: Enforcement, Title: Sanjay Wadhwa, Contact Information: Acting Director
+Name: Examinations, Title: Keith Cassidy, Contact Information: Acting Director
+Name: Investment Management, Title: Natasha Vij Greiner, Contact Information: Director
+Name: Trading and Markets, Title: Haoxiang Zhu, Contact Information: Director
+Name: EDGAR Business Office, Title: Jeffrey Hickman, Contact Information: Director
+Name: Office of Acquisitions(Procurement and Contracting), Title: Vance Cathell, Contact Information: Director
+Name: Office of Administrative Law Judges, Title: Dean C. Metry, Contact Information: Chief Administrative Law Judge
+Name: Office of the Advocate for Small Business Capital Formation, Title: Stacey Bowers, Contact Information: Director
+Name: Office of the Chief Accountant, Title: Paul Munter, Contact Information: Chief Accountant
+Name: Office of the Chief Data Officer, Title: Austin Gerig, Contact Information: Chief Data Officer
+Name: Office of the Chief Operating Officer, Title: Kenneth Johnson, Contact Information: Chief Operating Officer
+Name: Office of Credit Ratings, Title: Lori H. Price, Contact Information: Director
+Name: Office of Equal Employment Opportunity, Title: Rita Sampson, Contact Information: Director
+Name: Office of the Ethics Counsel, Title: Danae Serrano, Contact Information: Ethics Counsel
+Name: Office of Financial Management, Title: Caryn Kauffman, Contact Information: Chief Financial Officer
+Name: Office of the General Counsel, Title: Megan Barbero, Contact Information: General Counsel
+Name: Office of Human Resources, Title: Mark Reinhold, Contact Information: Director
+Name: Office of Information Technology, Title: David Bottom, Contact Information: Chief Information Officer
+Name: Office of Inspector General, Title: Deborah J. Jeffrey, Contact Information: Inspector General
+Name: Office of International Affairs, Title: YJ Fischer, Contact Information: Director
+Name: Office of the Investor Advocate, Title: Cristina Martin Firvida, Contact Information: Director
+Name: Office of Investor Education and Advocacy, Title: Lori Schock, Contact Information: Director
+Name: Office of Legislative and Intergovernmental Affairs, Title: Kevin Burris, Contact Information: Director
+Name: Office of Minority and Women Inclusion, Title: Nathaniel H. Benjamin, Contact Information: Director
+Name: Office of Municipal Securities, Title: Dave A. Sanchez, Contact Information: Director
+Name: Office of Public Affairs, Title: Scott Schneider, Contact Information: Director
+Name: Office of the Secretary, Title: Vanessa Countryman, Contact Information: Secretary
+Name: Office of Support Operations, Title: Olivier Girod, Contact Information: Director and Chief FOIA Officer
+Name: Office of Strategic Hub for Innovation and Financial Technology (FinHub), Title: Valerie Szczepanik, Contact Information: Director

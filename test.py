@@ -142,7 +142,7 @@ def save_to_excel(data):
             })
     
     df = pd.DataFrame(rows)
-    output_path = 'data.xlsx'
+    output_path = 'data1.xlsx'
     df.to_excel(output_path, index=False)
     print(f"Data saved to {output_path}")
 
@@ -166,7 +166,7 @@ def scrape_all_pages(base_url, total_pages):
 
 # Main function to scrape data and save to Excel
 def main():
-    base_url = 'https://www.bbb.org/search?filter_type=Business&find_country=USA&find_entity=60429-200&find_id=2748_7500-1300&find_text=Health%20and%20Wellness&find_type=Category&page=1&sort=Relevance'
+    base_url = 'https://www.bbb.org/search?filter_type=Business&find_country=USA&find_entity=50544-000&find_id=4847_19000&find_text=Restaurants&find_type=Category&page=1&touched=1'
     total_pages = 15  # All pages
     
     # Step 1: Scrape all pages
